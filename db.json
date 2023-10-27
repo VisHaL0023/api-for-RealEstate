@@ -1,5 +1,4 @@
 {
-  "real-estate-data": {
     "listings": [
       {
         "property_id": 1,
@@ -1367,5 +1366,4 @@
         "property_name": "Cole-Dicki"
       }
     ]
-  }
 }
